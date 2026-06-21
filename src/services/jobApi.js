@@ -1,6 +1,7 @@
 import axios from "axios";
 
-const BASE_URL = "http://localhost:3000/jobs";
+const BASE_URL =
+  "https://job-tracker-api-hbui.onrender.com/jobs";
 
 export const getJobs = () =>
   axios.get(BASE_URL);
