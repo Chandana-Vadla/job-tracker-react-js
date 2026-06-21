@@ -1,0 +1,13 @@
+.app {
+  margin: auto;
+  padding: 20px;
+}
+
+.form-section input,
+.form-section select {
+  padding: 8px;
+}
+
+/* .search-section {
+  margin-bottom: 20px;
+} */
